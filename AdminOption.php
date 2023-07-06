@@ -74,7 +74,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
   </div>
 
 
-  <!----------login ------------>
+  <!----------login Form------------>
 
   <div class="container2">
     <h2>Menu</h2>
