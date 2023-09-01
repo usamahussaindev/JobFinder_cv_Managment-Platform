@@ -11,6 +11,7 @@ Welcome to the JobFinder project! JobFinder is a PHP-based website specifically 
 - Candidate Evaluation Tools: JobFinder offers enhanced features like notes, tags, and ratings to facilitate efficient candidate evaluation. You can add personalized notes, assign tags to candidates for easy categorization, and provide ratings based on their suitability for specific roles.
 
 - Streamlined Workflow: The website is designed to optimize your office CV management workflow. It ensures a smooth and seamless experience, from uploading CVs to evaluating candidates, improving your overall recruitment efficiency.<br>
+
 ![cv](https://github.com/Usamahussain56/JobFinder/assets/118635657/dbd14292-0c80-4b75-b7b5-249c05f36be0)
 
 📋 **Requirements**
