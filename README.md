@@ -1,7 +1,7 @@
 🔍 **JobFinder: PHP-Based Website for Efficient Office CV Management**
 
 Welcome to the JobFinder project! JobFinder is a PHP-based website specifically designed to streamline the process of office CV management, making it efficient and hassle-free. With JobFinder, you can effortlessly upload, store, and analyze CVs for office job positions, allowing you to identify potential candidates quickly and effectively. 📄💼
-![images (1)](https://github.com/usamahussaindev/JobFinder_cv_Managment-Platform/assets/118635657/97995f61-ef24-406e-a85d-870a0c957b01)
+
 
 🚀 **Key Features**
 
@@ -34,7 +34,7 @@ To get started with JobFinder, follow these steps:
 5. Create an account or log in if you already have one.
 6. Begin uploading and managing CVs, utilizing the advanced search and filtering capabilities for efficient candidate identification.
 7. Take advantage of the notes, tags, and ratings features to evaluate candidates effectively.
-
+![images (1)](https://github.com/usamahussaindev/JobFinder_cv_Managment-Platform/assets/118635657/97995f61-ef24-406e-a85d-870a0c957b01)
 🤝 **Contributing**
 
 We welcome contributions to the JobFinder project! If you have ideas, suggestions, or enhancements to improve the efficiency of office CV management, please feel free to contribute by creating pull requests. Together, we can make JobFinder an even more powerful tool for office recruitment.
