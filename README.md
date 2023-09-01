@@ -33,7 +33,7 @@ To get started with JobFinder, follow these steps:
 4. Launch the JobFinder website using your web browser.
 5. Create an account or log in if you already have one.
 6. Begin uploading and managing CVs, utilizing the advanced search and filtering capabilities for efficient candidate identification.
-7. Take advantage of the notes, tags, and ratings features to evaluate candidates effectively.
+7. Take advantage of the notes, tags, and ratings features to evaluate candidates effectively.<br>
 ![images (1)](https://github.com/usamahussaindev/JobFinder_cv_Managment-Platform/assets/118635657/97995f61-ef24-406e-a85d-870a0c957b01)
 🤝 **Contributing**
 
