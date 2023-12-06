@@ -13,7 +13,7 @@ $row = mysqli_fetch_array($result);
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-  <title>update - Usama hussain 24878</title>
+  <title>update - zain ul abadeen</title>
 
   <link rel="stylesheet" href="css/website.css">
 
